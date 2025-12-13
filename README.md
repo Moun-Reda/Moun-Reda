@@ -1,4 +1,6 @@
-<h2 align="left">Hi! I'm Moun 👋  <br>I'm a second-year student in the Intelligent Systems Department at the Faculty of Computers and Data Science.  <br>Passionate about computer science and exploring new technologies.</h2>
+<h2 align="left">Hi! I'm Moun 👋  
+I'm a second-year student in the Intelligent Systems Department at the Faculty of Computers and Data Science.  
+Passionate about computer science and exploring new technologies.</h2>
 
 ###
 
@@ -36,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Moun-Reda/Moun-Reda/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Moun-Reda/Moun-Reda/output/snake.svg)
 
 ###
