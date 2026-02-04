@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -14,9 +14,7 @@ Passionate about computer science, problem solving, and exploring new technologi
 <h2 align="left"> Competitive Programming</h2>
 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Moun_Reda)
-![Solved](https://codeforces-readme-stats.vercel.app/api/solved?username=Moun_Reda)
-
+![Codeforces Profile Card](https://codeforces-profile.vercel.app/api/user?handle=Moun_Reda)
 🔗 https://codeforces.com/profile/Moun_Reda
 
 
