@@ -11,19 +11,15 @@ I'm a second-year student in the Intelligent Systems Department at the Faculty o
 Passionate about computer science, problem solving, and exploring new technologies.
 </h3>
 ###
-<h2 align="left">🏆 Competitive Programming</h2>
+<h2 align="left">Competitive Programming</h2>
 
 ###
 
 <div align="left">
   <a href="https://codeforces.com/profile/Moun_Reda" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Moun__Reda-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="28" alt="Codeforces" />
-  </a>
-  <img width="12" />
-  <a href="https://codeforces.com/profile/Moun_Reda" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Rating&query=result[0].rating&url=https://codeforces.com/api/user.info?handles=Moun_Reda&color=blue" height="28" alt="Codeforces Rating" />
-  </a>
 </div>
+    
 <h2 align="left">Language and tools</h2>
 
 ###
